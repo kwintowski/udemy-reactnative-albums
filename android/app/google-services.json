@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451163520865",
+    "firebase_url": "https://albums-ak.firebaseio.com",
+    "project_id": "albums-ak",
+    "storage_bucket": "albums-ak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451163520865:android:90693d735c94c567",
+        "android_client_info": {
+          "package_name": "com.albums"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451163520865-oo4eo8om69hlk9osofia6i14fspl6ofl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGNFJAoaR6HLTwbOFN0Ao6o0u-uR5_BvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451163520865-oo4eo8om69hlk9osofia6i14fspl6ofl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
